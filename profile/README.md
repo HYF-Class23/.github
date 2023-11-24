@@ -2,7 +2,7 @@
 
 ## Welcome to Class 23 Organization!
 
-Congratulations on joining Class 22, an exciting 8-month journey into the world of Full Stack Development! 🌐 This GitHub repository is your central hub for resources, collaboration, and guidance as you embark on this comprehensive learning experience.
+Congratulations on joining Class 23, an exciting 8-month journey into the world of Full Stack Development! 🌐 This GitHub repository is your central hub for resources, collaboration, and guidance as you embark on this comprehensive learning experience.
 
 ## Overview
 
@@ -37,4 +37,4 @@ The curriculum is structured to guide you through the following phases:
 
 ---
 
-We're thrilled to have you on board for Class 22! Let's code, learn, and build amazing things together. Happy coding! 💻🚀
+We're thrilled to have you on board for Class 23! Let's code, learn, and build amazing things together. Happy coding! 💻🚀
